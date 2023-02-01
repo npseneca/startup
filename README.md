@@ -15,3 +15,6 @@ Key features:
 Pictures:
 
 /Users/noahseneca/Library/Messages/Attachments/1f/15/723CA6E9-0C45-4DD6-A9DD-7245FE4D154D/IMG_0105.heic
+
+Stuff to remember:
+    http is different from https!!
